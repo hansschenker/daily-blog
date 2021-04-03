@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "netxpert-cb9e4": {
+      "hosting": {
+        "daily-blog": [
+          "netxpert-cb9e4"
+        ]
+      }
+    }
+  }
+}
